@@ -2,6 +2,6 @@ version: "3"
 services:
   reactapp:
     container_name: react_cont1
-    image: mohanudayana/React:Zomato
+    image: mohanudayana/react:Zomato
     ports:
       - "3000:3000"
